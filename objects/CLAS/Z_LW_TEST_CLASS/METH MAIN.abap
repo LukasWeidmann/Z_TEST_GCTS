@@ -4,4 +4,6 @@
 
     WRITE: |Yes_SIR|.
 
+    WRITE: |DS2_is_stronger|.
+
   ENDMETHOD.
