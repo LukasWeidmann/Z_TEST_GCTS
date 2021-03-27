@@ -4,4 +4,6 @@
 
     WRITE: |Yes_SIR|.
 
+    WRITE: |DS1 is stronger|.
+
   ENDMETHOD.
