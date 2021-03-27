@@ -1,7 +1,7 @@
   METHOD main.
 
-    WRITE: 'I should do something'.
+    WRITE: 'I should not do something'.
 
-    WRITE: |Don't know|.
+    WRITE: |Yes_SIR|.
 
   ENDMETHOD.
