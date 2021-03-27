@@ -5,3 +5,4 @@ CLASS z_lw_test_class DEFINITION
 
   PUBLIC SECTION.
     METHODS main.
+    METHODS main2.
