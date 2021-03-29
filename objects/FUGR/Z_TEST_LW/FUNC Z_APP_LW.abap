@@ -7,7 +7,8 @@ FUNCTION z_app_lw.
 *"      CX_SY_ZERODIVIDE
 *"     RESUMABLE(CX_SY_ASSIGN_CAST_ERROR)
 *"----------------------------------------------------------------------
-"ich sollte hier eigentlich gar nicht stehen
+  CREATE DATA ex_p1 TYPE string.
+
 
 
   ex_p1->* = |Chilly Milly|.
