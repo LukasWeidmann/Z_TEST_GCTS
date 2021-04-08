@@ -1,3 +1,3 @@
 *"* dummy include to reduce generation dependencies between
-*"* class Z_LW_TEST_CLASS2 and it's users.
+*"* class Z_IF_LW_ENH and it's users.
 *"* touched if any type reference has been changed
