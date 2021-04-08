@@ -1,0 +1,7 @@
+INTERFACE z_if_lw_enh
+  PUBLIC .
+  INTERFACES IF_BADI_Interface.
+
+  METHODS main.
+
+ENDINTERFACE.

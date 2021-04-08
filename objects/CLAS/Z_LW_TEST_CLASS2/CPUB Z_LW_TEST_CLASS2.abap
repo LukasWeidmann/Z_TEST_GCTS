@@ -1,0 +1,7 @@
+CLASS z_lw_test_class2 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    INTERFACES z_if_lw_enh.
