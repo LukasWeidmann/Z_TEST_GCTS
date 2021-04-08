@@ -6,4 +6,6 @@
 
     WRITE: |DS1 is stronger!|.
 
+    WRITE: |DS2 is stronger!|.
+
   ENDMETHOD.
