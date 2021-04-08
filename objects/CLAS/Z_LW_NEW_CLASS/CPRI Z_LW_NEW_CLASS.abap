@@ -1,1 +1,2 @@
   PRIVATE SECTION.
+    METHODS main.

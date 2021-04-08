@@ -1,0 +1,3 @@
+  METHOD main.
+
+  ENDMETHOD.
