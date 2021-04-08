@@ -1,8 +1,0 @@
-CLASS z_lw_test_class DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
-
-  PUBLIC SECTION.
-    METHODS main.
-    METHODS main2.

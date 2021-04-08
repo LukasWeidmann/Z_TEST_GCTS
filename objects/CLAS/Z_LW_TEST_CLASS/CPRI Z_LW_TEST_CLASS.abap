@@ -1,2 +1,0 @@
-  PRIVATE SECTION.
-    METHODS main3.

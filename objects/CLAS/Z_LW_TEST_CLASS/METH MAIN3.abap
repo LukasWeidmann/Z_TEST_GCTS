@@ -1,3 +1,0 @@
-  METHOD main3.
-
-  ENDMETHOD.
