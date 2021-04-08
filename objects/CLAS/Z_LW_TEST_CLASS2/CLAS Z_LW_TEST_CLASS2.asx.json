@@ -89,7 +89,7 @@
    },
    {
     "CLSNAME":"Z_LW_TEST_CLASS2",
-    "CMPNAME":"TEST_METHOD_DS1",
+    "CMPNAME":"TEST_METHOD_DS2",
     "CMPTYPE":1,
     "MTDTYPE":0
    }
@@ -158,7 +158,7 @@
    },
    {
     "CLSNAME":"Z_LW_TEST_CLASS2",
-    "CMPNAME":"TEST_METHOD_DS1",
+    "CMPNAME":"TEST_METHOD_DS2",
     "VERSION":1,
     "ALIAS":"",
     "REDEFIN":"",
@@ -239,7 +239,7 @@
    },
    {
     "CLSNAME":"Z_LW_TEST_CLASS2",
-    "CMPNAME":"TEST_METHOD_DS1",
+    "CMPNAME":"TEST_METHOD_DS2",
     "LANGU":"E",
     "DESCRIPT":""
    }
@@ -294,7 +294,7 @@
    {
     "CLASSNAME":"Z_LW_TEST_CLASS2",
     "METHODINDX":2,
-    "METHODNAME":"TEST_METHOD_DS1",
+    "METHODNAME":"TEST_METHOD_DS2",
     "FLAGS":0
    }
   ]

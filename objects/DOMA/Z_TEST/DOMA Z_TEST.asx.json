@@ -8,8 +8,8 @@
     "AS4LOCAL":"L",
     "AS4VERS":0,
     "DATATYPE":"CHAR",
-    "LENG":10,
-    "OUTPUTLEN":10,
+    "LENG":1,
+    "OUTPUTLEN":1,
     "DECIMALS":0,
     "LOWERCASE":"",
     "SIGNFLAG":"",
@@ -24,7 +24,7 @@
     "AUTHCLASS":0,
     "AS4USER":"LUKAS",
     "AS4DATE":"2021-04-08",
-    "AS4TIME":"12:59:26",
+    "AS4TIME":"12:57:58",
     "DOMMASTER":"E",
     "RESERVEDOM":"",
     "DOMGLOBAL":"",
@@ -46,7 +46,7 @@
     "DDLANGUAGE":"E",
     "AS4LOCAL":"N",
     "AS4VERS":0,
-    "DDTEXT":"test in Ds1"
+    "DDTEXT":"test"
    }
   ]
  },
